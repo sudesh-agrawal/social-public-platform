@@ -10,6 +10,10 @@ CRUD and Resource Controllers
 Form Validation and Requests
 Bootstrap as a CSS framework.
 
+![alt text](https://github.com/sudesh-agrawal/social-publishing-platform/blob/main/public/screenshot/admin-login.png?raw=true)
+![alt text](https://github.com/sudesh-agrawal/social-publishing-platform/blob/main/public/screenshot/article.png?raw=true)
+![alt text](https://github.com/sudesh-agrawal/social-publishing-platform/blob/main/public/screenshot/frontend.png?raw=true)
+
 
 PHP version: 8.1
 
